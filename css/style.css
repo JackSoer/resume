@@ -62,6 +62,7 @@ a {
   float: left;
 }
 .content-box {
+  max-height: 900px;
   padding: 20px;
 }
 .head {
